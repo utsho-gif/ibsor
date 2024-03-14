@@ -12,7 +12,7 @@ const CommonNavbar = () => {
       >
         <Container>
           <Navbar.Brand href="#home">
-            <img width={"80px"} height={"80px"} src={logo} alt="ibsor" />
+            <img height={"80px"} src={logo} alt="ibsor" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">

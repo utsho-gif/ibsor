@@ -30,15 +30,15 @@ const Summary = () => {
                 marginLeft: "30px",
               }}
             >
-              1st Molecular Diagnostic Lab
+              Diagnostic Lab
             </p>
           </Card.Header>
           <Card.Body>
             <Card.Text>
               <p>
-                DNA Solution Ltd. is the 1st Molecular Diagnostic Lab of its
-                kind in Bangladesh. We Provide all kinds of DNA and RNA based
-                Molecular Diagnostic Services to the clinicians.
+                Ibsor is the 1st Molecular Diagnostic Lab of its kind in
+                Bangladesh. We Provide all kinds of DNA and RNA based Molecular
+                Diagnostic Services to the clinicians.
               </p>
             </Card.Text>
           </Card.Body>
@@ -58,7 +58,7 @@ const Summary = () => {
                 marginLeft: "30px",
               }}
             >
-              Latest Technologies
+              Technologies
             </p>
           </Card.Header>
           <Card.Body>
@@ -86,7 +86,7 @@ const Summary = () => {
                 marginLeft: "30px",
               }}
             >
-              Physician/ Scientists
+              Scientists
             </p>
           </Card.Header>
           <Card.Body>
@@ -114,15 +114,15 @@ const Summary = () => {
                 marginLeft: "30px",
               }}
             >
-              Home Collection Services
+              Services
             </p>
           </Card.Header>
           <Card.Body>
             <Card.Text>
               <p>
-                Skilled phlebotomists of DNA Solution collect sample from
-                patient's home. The sample is processed in the Laboratory, 24x7,
-                under strict Quality Control Process.
+                Skilled phlebotomists collect sample from patient's home. The
+                sample is processed in the Laboratory, 24x7, under strict
+                Quality Control Process.
               </p>
             </Card.Text>
           </Card.Body>
